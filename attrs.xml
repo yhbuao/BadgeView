@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BadgeView">
+        <attr name="badgeTextColor" format="color" />
+        <attr name="badgeColor" format="color" />
+        <attr name="leftRightPadding" format="dimension" />
+        <attr name="topBottomPadding" format="dimension" />
+        <attr name="badgeCornerRadius" format="dimension" />
+        <attr name="isAnimate" format="boolean" />
+    </declare-styleable>
+</resources>
